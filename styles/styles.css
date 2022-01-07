@@ -1,0 +1,4 @@
+.fixed-200 {
+    -ms-flex: 200px;
+    flex: 0 0 200px;
+}
